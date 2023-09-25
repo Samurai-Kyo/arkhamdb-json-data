@@ -1,9 +1,5 @@
 [
     {
-        "code": "a_light_in_the_fog",
-        "name": "Una Luce nella Nebbia"
-    },
-    {
         "code": "a_phantom_of_truth",
         "name": "Lo Spettro della Verità"
     },
@@ -32,16 +28,8 @@
         "name": "Agenti di Cthulhu"
     },
     {
-        "code": "agents_of_dagon",
-        "name": "Agenti di Dagon"
-    },
-    {
         "code": "agents_of_hastur",
         "name": "Agenti di Hastur"
-    },
-    {
-        "code": "agents_of_hydra",
-        "name": "Agenti di Idra"
     },
     {
         "code": "agents_of_nyarlathotep",
@@ -52,14 +40,6 @@
         "name": "Agenti di Shub-Niggurath"
     },
     {
-        "code": "agents_of_the_outside",
-        "name": "Agenti del Reame Estraneo"
-    },
-    {
-        "code": "agents_of_the_unknown",
-        "name": "Agenti dell'Ignoto"
-    },
-    {
         "code": "agents_of_yig",
         "name": "Agenti di Yig"
     },
@@ -68,16 +48,12 @@
         "name": "Agenti di Yog-Sothoth"
     },
     {
-        "code": "agents_of_yuggoth",
-        "name": "Agenti di Yuggoth"
-    },
-    {
         "code": "alien_interference",
         "name": "Interferenza Aliena"
     },
     {
         "code": "all_or_nothing",
-        "name": "Tutto o Niente"
+        "name": "All or Nothing"
     },
     {
         "code": "ancient_evils",
@@ -100,8 +76,36 @@
         "name": "Sulla Soglia della Morte"
     },
     {
-        "code": "bad_blood",
-        "name": "Bad Blood"
+        "code": "return_to_at_deaths_doorstep",
+        "name": "Ritorno a... Sulla Soglia della Morte"
+    },
+    {
+        "code": "return_to_disappearance_at_the_twilight_estate",
+        "name": "Ritorno a... Sparizione alla Villa del Crepuscolo"
+    },
+    {
+        "code": "return_to_the_witching_hour",
+        "name": "Ritorno a... L'Ora delle Streghe"
+    },
+    {
+        "code": "return_to_the_secret_name",
+        "name": "Ritorno a... Il Nome Segreto"
+    },
+    {
+        "code": "return_to_the_wages_of_sin",
+        "name": "Ritorno a... Il Prezzo del Peccato"
+    },
+    {
+        "code": "return_to_for_the_greater_good",
+        "name": "Ritorno a... Per il Bene Superiore"
+    },
+    {
+        "code": "return_to_union_and_disillusion",
+        "name": "Ritorno a... Unione e Disillusione"
+    },
+    {
+        "code": "return_to_in_the_clutches_of_chaos",
+        "name": "Ritorno a... Nelle Grinfie del Caos"
     },
     {
         "code": "bad_luck",
@@ -118,10 +122,6 @@
     {
         "code": "before_the_black_throne",
         "name": "Al Cospetto del Trono Nero"
-    },
-    {
-        "code": "beyond_the_beyond",
-        "name": "Oltre l'Oltre"
     },
     {
         "code": "beyond_the_gates_of_sleep",
@@ -156,64 +156,24 @@
         "name": "Sangue sull'Altare"
     },
     {
-        "code": "bloodthirsty_spirits",
-        "name": "Spiriti Sanguinari"
-    },
-    {
         "code": "brotherhood_of_the_beast",
         "name": "Confraternita della Bestia"
-    },
-    {
-        "code": "by_the_book",
-        "name": "By the Book"
     },
     {
         "code": "byakhee",
         "name": "Byakhee"
     },
     {
-        "code": "children_of_paradise",
-        "name": "Progenie del Paradiso"
-    },
-    {
         "code": "chilling_cold",
         "name": "Freddo Raggelante"
-    },
-    {
-        "code": "chilling_mists",
-        "name": "Bruma Raggelante"
     },
     {
         "code": "city_of_sins",
         "name": "Città dei Peccati"
     },
     {
-        "code": "city_of_the_damned",
-        "name": "Città dei Dannati"
-    },
-    {
-        "code": "city_of_the_elder_things",
-        "name": "La Città degli Antichi"
-    },
-    {
-        "code": "cleanup_crew",
-        "name": "Squadra di Pulizia"
-    },
-    {
-        "code": "congress_of_the_keys",
-        "name": "Il Congresso delle Chiavi"
-    },
-    {
         "code": "corsairs",
         "name": "Corsari"
-    },
-    {
-        "code": "creatures_in_the_ice",
-        "name": "Creature tra i Ghiacci"
-    },
-    {
-        "code": "creatures_of_the_deep",
-        "name": "Creature degli Abissi"
     },
     {
         "code": "creatures_of_the_underworld",
@@ -222,10 +182,6 @@
     {
         "code": "creeping_cold",
         "name": "Freddo Strisciante"
-    },
-    {
-        "code": "crimson_conspiracy",
-        "name": "Congiura Cremisi"
     },
     {
         "code": "cult_of_pnakotus",
@@ -244,36 +200,12 @@
         "name": "Cala il Sipario"
     },
     {
-        "code": "dancing_mad",
-        "name": "Danza Selvaggia"
-    },
-    {
         "code": "dark_rituals",
         "name": "Rituali Oscuri"
     },
     {
         "code": "dark_side_of_the_moon",
         "name": "Il Lato Oscuro della Luna"
-    },
-    {
-        "code": "dark_veiling",
-        "name": "Velature di Tenebra"
-    },
-    {
-        "code": "dead_heat",
-        "name": "Calura Mortale"
-    },
-    {
-        "code": "deadly_weather",
-        "name": "Clima Mortale"
-    },
-    {
-        "code": "dealings_in_the_dark",
-        "name": "Ombre Dolorose"
-    },
-    {
-        "code": "death_of_stars",
-        "name": "Morte delle Stelle"
     },
     {
         "code": "decay",
@@ -296,20 +228,12 @@
         "name": "Discesa nella Pece"
     },
     {
-        "code": "devil_reef",
-        "name": "Lo Scoglio del Diavolo"
-    },
-    {
         "code": "dim_carcosa",
         "name": "La Cupa Carcosa"
     },
     {
         "code": "disappearance_at_the_twilight_estate",
         "name": "Sparizione alla Villa del Crepuscolo"
-    },
-    {
-        "code": "dogs_of_war",
-        "name": "Cani da Guerra"
     },
     {
         "code": "doomed_expedition",
@@ -330,10 +254,6 @@
     {
         "code": "echoes_of_the_past",
         "name": "Echi dal Passato"
-    },
-    {
-        "code": "elder_things",
-        "name": "Esseri Antichi"
     },
     {
         "code": "epic_multiplayer",
@@ -360,10 +280,6 @@
         "name": "Spedizione"
     },
     {
-        "code": "expedition_team",
-        "name": "Squadra della Spedizione"
-    },
-    {
         "code": "extracurricular_activity",
         "name": "Attività Extracurricolare"
     },
@@ -372,36 +288,16 @@
         "name": "La Maledizione di Eztli"
     },
     {
-        "code": "fatal_mirage",
-        "name": "Miraggio Fatale"
-    },
-    {
         "code": "flood",
         "name": "Inondazione in Terra"
-    },
-    {
-        "code": "flooded_caverns",
-        "name": "Grotte Allagate"
     },
     {
         "code": "flux",
         "name": "Flusso Temporale"
     },
     {
-        "code": "fog_over_innsmouth",
-        "name": "Nebbia su Innsmouth"
-    },
-    {
         "code": "for_the_greater_good",
         "name": "Per il Bene Superiore"
-    },
-    {
-        "code": "fortune_and_folly",
-        "name": "Fortuna e Follia"
-    },
-    {
-        "code": "fortunes_chosen",
-        "name": "Fortune's Chosen"
     },
     {
         "code": "ghouls",
@@ -410,10 +306,6 @@
     {
         "code": "ghouls_of_umôrdhoth",
         "name": "Ghoul di Umôrdhoth"
-    },
-    {
-        "code": "globetrotting",
-        "name": "Giramondo"
     },
     {
         "code": "guardians_of_time",
@@ -432,32 +324,12 @@
         "name": "Infestazioni"
     },
     {
-        "code": "hazards_of_antarctica",
-        "name": "Insidie Antartiche"
-    },
-    {
         "code": "heart_of_the_elders",
         "name": "Cuore degli Antichi"
     },
     {
-        "code": "hexcraft",
-        "name": "Maleficio"
-    },
-    {
         "code": "hideous_abominations",
         "name": "Orrendi Abomini"
-    },
-    {
-        "code": "horror_in_high_gear",
-        "name": "Orrore ad Alta Velocità"
-    },
-    {
-        "code": "ice_and_death",
-        "name": "Ghiaccio e Morte"
-    },
-    {
-        "code": "impending_evils",
-        "name": "Mali Incombenti"
     },
     {
         "code": "in_the_clutches_of_chaos",
@@ -468,10 +340,6 @@
         "name": "I Labirinti della Follia"
     },
     {
-        "code": "in_too_deep",
-        "name": "Con l'Acqua alla Gola"
-    },
-    {
         "code": "inexorable_fate",
         "name": "Fato Inesorabile"
     },
@@ -480,52 +348,24 @@
         "name": "Cittadini di Carcosa"
     },
     {
-        "code": "into_the_maelstrom",
-        "name": "Nel Maelstrom"
-    },
-    {
         "code": "knyan",
         "name": "K'n-yan"
-    },
-    {
-        "code": "left_behind",
-        "name": "Lasciati Indietro"
     },
     {
         "code": "locked_doors",
         "name": "Porte Chiuse"
     },
     {
-        "code": "lost_in_the_night",
-        "name": "Smarriti nella Notte"
-    },
-    {
         "code": "lost_in_time_and_space",
         "name": "Oltre il Tempo e lo Spazio"
-    },
-    {
-        "code": "machinations_through_time",
-        "name": "Macchinazioni Temporali"
     },
     {
         "code": "maddening_delusions",
         "name": "Delirio Esasperante"
     },
     {
-        "code": "malfunction",
-        "name": "Guasto"
-    },
-    {
-        "code": "memorials_of_the_lost",
-        "name": "Ricordi dei Caduti"
-    },
-    {
         "code": "merging_realities",
         "name": "Fusione tra le Realtà"
-    },
-    {
-        "code": "miasma",
-        "name": "Miasma"
     },
     {
         "code": "migo_incursion",
@@ -540,14 +380,6 @@
         "name": "Musica dei Dannati"
     },
     {
-        "code": "mysteries_abound",
-        "name": "Misteri in Abbondanza"
-    },
-    {
-        "code": "nameless_horrors",
-        "name": "Orrori Innominabili"
-    },
-    {
         "code": "naomis_crew",
         "name": "La Banda di Naomi"
     },
@@ -560,28 +392,12 @@
         "name": "Magri Notturni"
     },
     {
-        "code": "on_thin_ice",
-        "name": "Sul Ghiaccio Sottile"
-    },
-    {
-        "code": "outsiders",
-        "name": "Estranei"
-    },
-    {
-        "code": "penguins",
-        "name": "Pinguini"
-    },
-    {
         "code": "pentagram",
         "name": "Culto Oscuro"
     },
     {
         "code": "pillars_of_judgment",
         "name": "Pilastri del Giudizio"
-    },
-    {
-        "code": "plan_in_shambles",
-        "name": "Plan in Shambles"
     },
     {
         "code": "pnakotic_brotherhood",
@@ -612,14 +428,6 @@
         "name": "Reame della Morte"
     },
     {
-        "code": "red_coterie",
-        "name": "Società Rossa"
-    },
-    {
-        "code": "red_tide_rising",
-        "name": "Red Tide Rising"
-    },
-    {
         "code": "resurgent_evils",
         "name": "Mali Ridestati"
     },
@@ -630,14 +438,6 @@
     {
         "code": "return_to_a_phantom_of_truth",
         "name": "Ritorno a... Lo Spettro della Verità"
-    },
-    {
-        "code": "return_to_at_deaths_doorstep",
-        "name": "Ritorno a... Sulla Soglia della Morte"
-    },
-    {
-        "code": "return_to_before_the_black_throne",
-        "name": "Ritorno a... Al Cospetto del Trono Nero"
     },
     {
         "code": "return_to_black_stars_rise",
@@ -656,10 +456,6 @@
         "name": "Ritorno a... La Cupa Carcosa"
     },
     {
-        "code": "return_to_disappearance_at_the_twilight_estate",
-        "name": "Ritorno a... Sparizione alla Villa del Crepuscolo"
-    },
-    {
         "code": "return_to_echoes_of_the_past",
         "name": "Ritorno a... Echi dal Passato"
     },
@@ -668,16 +464,8 @@
         "name": "Ritorno a... Attività Extracurricolare"
     },
     {
-        "code": "return_to_for_the_greater_good",
-        "name": "Ritorno a... Per il Bene Superiore"
-    },
-    {
         "code": "return_to_heart_of_the_elders",
         "name": "Ritorno a... Cuore degli Antichi"
-    },
-    {
-        "code": "return_to_in_the_clutches_of_chaos",
-        "name": "Ritorno a... Nelle Grinfie del Caos"
     },
     {
         "code": "return_to_knyan",
@@ -748,24 +536,12 @@
         "name": "Ritorno a... Foresta Pluviale"
     },
     {
-        "code": "return_to_the_secret_name",
-        "name": "Ritorno a... Il Nome Segreto"
-    },
-    {
         "code": "return_to_the_unspeakable_oath",
         "name": "Ritorno a... Il Giuramento Impronunciabile"
     },
     {
         "code": "return_to_the_untamed_wilds",
         "name": "Ritorno a... La Foresta Inviolata"
-    },
-    {
-        "code": "return_to_the_wages_of_sin",
-        "name": "Ritorno a... Il Prezzo del Peccato"
-    },
-    {
-        "code": "return_to_the_witching_hour",
-        "name": "Ritorno a... L'Ora delle Streghe"
     },
     {
         "code": "return_to_threads_of_fate",
@@ -780,20 +556,8 @@
         "name": "Ritorno a... Le Dimensioni dell'Invisibile"
     },
     {
-        "code": "return_to_union_and_disillusion",
-        "name": "Ritorno a... Unione e Disillusione"
-    },
-    {
         "code": "return_to_where_doom_awaits",
         "name": "Ritorno a... Verso un Destino Oscuro"
-    },
-    {
-        "code": "riddles_and_rain",
-        "name": "Pioggia ed Enigmi"
-    },
-    {
-        "code": "rising_tide",
-        "name": "Alta Marea"
     },
     {
         "code": "rougarou",
@@ -808,56 +572,24 @@
         "name": "Sabbie d'Egitto"
     },
     {
-        "code": "sanguine_shadows",
-        "name": "Ombre Sanguigne"
-    },
-    {
-        "code": "scarlet_sorcery",
-        "name": "Stregoneria Scarlatta"
-    },
-    {
         "code": "secret_doors",
         "name": "Porte Segrete"
-    },
-    {
-        "code": "secret_war",
-        "name": "Guerra Segreta"
     },
     {
         "code": "secrets_of_the_universe",
         "name": "Segreti dell'Universo"
     },
     {
-        "code": "seeping_nightmares",
-        "name": "Incubi Penetranti"
+        "code": "return_to_before_the_black_throne",
+        "name": "Ritorno a... Al Cospetto del Trono Nero"
     },
     {
         "code": "serpents",
         "name": "Serpenti"
     },
     {
-        "code": "shades_of_suffering",
-        "name": "Ombre Sanguigne"
-    },
-    {
-        "code": "shadow_of_a_doubt",
-        "name": "Ombra di Dubbio"
-    },
-    {
         "code": "shattered_aeons",
         "name": "Eoni Infranti"
-    },
-    {
-        "code": "shattered_memories",
-        "name": "Ricordi Infranti"
-    },
-    {
-        "code": "shoggoths",
-        "name": "Shoggoth"
-    },
-    {
-        "code": "silence_and_mystery",
-        "name": "Silenzio e Mistero"
     },
     {
         "code": "silver_twilight_lodge",
@@ -876,10 +608,6 @@
         "name": "Stregoneria"
     },
     {
-        "code": "spatial_anomaly",
-        "name": "Anomalia Spaziale"
-    },
-    {
         "code": "spectral_predators",
         "name": "Predatori Spettrali"
     },
@@ -888,36 +616,12 @@
         "name": "Ragni"
     },
     {
-        "code": "spreading_corruption",
-        "name": "Corruzione Dilagante"
-    },
-    {
-        "code": "stirring_in_the_deep",
-        "name": "Agitazione nel Profondo"
-    },
-    {
-        "code": "strange_happenings",
-        "name": "Strani Fenomeni"
-    },
-    {
         "code": "stranger",
         "name": "Lo Straniero"
     },
     {
         "code": "striking_fear",
         "name": "Paura Incombente"
-    },
-    {
-        "code": "swarm_of_assimilation",
-        "name": "Sciame dell'Assimilazione"
-    },
-    {
-        "code": "syzygy",
-        "name": "Sizigia"
-    },
-    {
-        "code": "tekelili",
-        "name": "Tekeli-Li"
     },
     {
         "code": "temporal_hunters",
@@ -944,10 +648,6 @@
         "name": "Città degli Archivi"
     },
     {
-        "code": "the_crash",
-        "name": "Lo Schianto"
-    },
-    {
         "code": "the_depths_of_yoth",
         "name": "Abissi di Yoth"
     },
@@ -960,28 +660,12 @@
         "name": "Il Sonno Eterno"
     },
     {
-        "code": "the_great_seal",
-        "name": "Il Grande Sigillo"
-    },
-    {
-        "code": "the_heart_of_madness",
-        "name": "Il Cuore della Follia"
-    },
-    {
         "code": "the_house_always_wins",
         "name": "Il Banco Vince Sempre"
     },
     {
-        "code": "the_lair_of_dagon",
-        "name": "Il Covo di Dagon"
-    },
-    {
         "code": "the_last_king",
         "name": "L'Ultimo Re"
-    },
-    {
-        "code": "the_locals",
-        "name": "Autoctoni"
     },
     {
         "code": "the_miskatonic_museum",
@@ -996,10 +680,6 @@
         "name": "La Maschera Pallida"
     },
     {
-        "code": "the_pit_of_despair",
-        "name": "La Grotta della Disperazione"
-    },
-    {
         "code": "the_search_for_kadath",
         "name": "Alla Ricerca del Kadath"
     },
@@ -1010,10 +690,6 @@
     {
         "code": "the_unspeakable_oath",
         "name": "Il Giuramento Impronunciabile"
-    },
-    {
-        "code": "the_vanishing_of_elina_harper",
-        "name": "La Scomparsa di Elina Harper"
     },
     {
         "code": "the_wages_of_sin",
@@ -1030,10 +706,6 @@
     {
         "code": "threads_of_fate",
         "name": "Trame del Fato"
-    },
-    {
-        "code": "to_the_forbidden_peaks",
-        "name": "Alle Vette Proibite"
     },
     {
         "code": "torch",
@@ -1064,14 +736,6 @@
         "name": "Sconosciuto"
     },
     {
-        "code": "unspeakable_fate",
-        "name": "Fato Innominabile"
-    },
-    {
-        "code": "unstable_realm",
-        "name": "Reame Instabile"
-    },
-    {
         "code": "venice",
         "name": "Il Carnevale degli Orrori"
     },
@@ -1094,10 +758,6 @@
     {
         "code": "waking_nightmare",
         "name": "Incubo a Occhi Aperti"
-    },
-    {
-        "code": "war_of_the_outer_gods",
-        "name": "La Guerra degli Dèi Esterni"
     },
     {
         "code": "weaver_of_the_cosmos",
@@ -1128,15 +788,103 @@
         "name": "Malia"
     },
     {
-        "code": "without_a_trace",
-        "name": "Senza Tracce"
-    },
-    {
         "code": "yog_sothoths_emissaries",
         "name": "Emissari di Yog-Sothoth"
     },
     {
         "code": "zoogs",
         "name": "Zoog"
+    },
+    {
+        "code": "the_pit_of_despair",
+        "name": "La Grotta della Disperazione"
+    },
+    {
+        "code": "creatures_of_the_deep",
+        "name": "Creature degli Abissi"
+    },
+    {
+        "code": "flooded_caverns",
+        "name": "Grotte Allagate"
+    },
+    {
+        "code": "rising_tide",
+        "name": "Alta Marea"
+    },
+    {
+        "code": "shattered_memories",
+        "name": "Ricordi Infranti"
+    },
+    {
+        "code": "agents_of_dagon",
+        "name": "Agenti di Dagon"
+    },
+    {
+        "code": "agents_of_hydra",
+        "name": "Agenti di Idra"
+    },
+    {
+        "code": "the_locals",
+        "name": "Autoctoni"
+    },
+    {
+        "code": "fog_over_innsmouth",
+        "name": "Nebbia su Innsmouth"
+    },
+    {
+        "code": "the_vanishing_of_elina_harper",
+        "name": "La Scomparsa di Elina Harper"
+    },
+    {
+        "code": "syzygy",
+        "name": "Sigizia"
+    },
+    {
+        "code": "malfunction",
+        "name": "Guasto"
+    },
+    {
+        "code": "in_too_deep",
+        "name": "Con l'Acqua alla Gola"
+    },
+    {
+        "code": "devil_reef",
+        "name": "Lo Scoglio del Diavolo"
+    },
+    {
+        "code": "war_of_the_outer_gods",
+        "name": "La Guerra degli Dèi Esterni"
+    },
+    {
+        "code": "children_of_paradise",
+        "name": "Progenie del Paradiso"
+    },
+    {
+        "code": "swarm_of_assimilation",
+        "name": "Sciame dell'Assimilazione"
+    },
+    {
+        "code": "death_of_stars",
+        "name": "Morte delle Stelle"
+    },
+    {
+        "code": "bad_blood",
+        "name": "Bad Blood"
+    },
+    {
+        "code": "horror_in_high_gear",
+        "name": "Orrore ad Alta Velocità"
+    },
+    {
+        "code": "a_light_in_the_fog",
+        "name": "Una Luce nella Nebbia"
+    },
+    {
+        "code": "the_lair_of_dagon",
+        "name": "Il Covo di Dagon"
+    },
+    {
+        "code": "into_the_maelstrom",
+        "name": "Nel Maelstrom"
     }
 ]

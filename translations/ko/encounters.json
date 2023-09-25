@@ -53,7 +53,7 @@
     },
     {
         "code": "agents_of_the_unknown",
-        "name": "미지의 권속"
+        "name": "Agents of the Unknown"
     },
     {
         "code": "agents_of_yig",
@@ -181,7 +181,7 @@
     },
     {
         "code": "city_of_the_elder_things",
-        "name": "옛것의 도시"
+        "name": "City of the Elder Things"
     },
     {
         "code": "corsairs",
@@ -189,7 +189,7 @@
     },
     {
         "code": "creatures_in_the_ice",
-        "name": "얼음 속의 괴수"
+        "name": "Creatures in the Ice"
     },
     {
         "code": "creatures_of_the_deep",
@@ -229,7 +229,7 @@
     },
     {
         "code": "deadly_weather",
-        "name": "악천후"
+        "name": "Deadly Weather"
     },
     {
         "code": "death_of_stars",
@@ -289,7 +289,7 @@
     },
     {
         "code": "elder_things",
-        "name": "옛것"
+        "name": "Elder Things"
     },
     {
         "code": "epic_multiplayer",
@@ -329,7 +329,7 @@
     },
     {
         "code": "fatal_mirage",
-        "name": "치명적인 신기루"
+        "name": "Fatal Mirage"
     },
     {
         "code": "flood",
@@ -377,7 +377,7 @@
     },
     {
         "code": "hazards_of_antarctica",
-        "name": "위험천만한 남극"
+        "name": "Hazards of Antarctica"
     },
     {
         "code": "heart_of_the_elders",
@@ -397,7 +397,7 @@
     },
     {
         "code": "ice_and_death",
-        "name": "얼음과 죽음"
+        "name": "Ice and Death"
     },
     {
         "code": "impending_evils",
@@ -433,7 +433,7 @@
     },
     {
         "code": "left_behind",
-        "name": "남겨진 자들"
+        "name": "Left Behind"
     },
     {
         "code": "locked_doors",
@@ -441,7 +441,7 @@
     },
     {
         "code": "lost_in_the_night",
-        "name": "한밤중의 실종"
+        "name": "Lost in the Night"
     },
     {
         "code": "lost_in_time_and_space",
@@ -449,7 +449,7 @@
     },
     {
         "code": "machinations_through_time",
-        "name": "시간을 초월한 음모"
+        "name": "Machinations Through Time"
     },
     {
         "code": "maddening_delusions",
@@ -461,7 +461,7 @@
     },
     {
         "code": "memorials_of_the_lost",
-        "name": "탐사대원의 유품"
+        "name": "Memorials of the Lost"
     },
     {
         "code": "merging_realities",
@@ -469,7 +469,7 @@
     },
     {
         "code": "miasma",
-        "name": "독기"
+        "name": "Miasma"
     },
     {
         "code": "migo_incursion",
@@ -485,7 +485,7 @@
     },
     {
         "code": "nameless_horrors",
-        "name": "형언치 못할 공포"
+        "name": "Nameless Horrors"
     },
     {
         "code": "naomis_crew",
@@ -501,7 +501,7 @@
     },
     {
         "code": "penguins",
-        "name": "펭귄"
+        "name": "Penguins"
     },
     {
         "code": "pentagram",
@@ -737,7 +737,7 @@
     },
     {
         "code": "seeping_nightmares",
-        "name": "스며 나오는 악몽"
+        "name": "Seeping Nightmares"
     },
     {
         "code": "serpents",
@@ -753,11 +753,11 @@
     },
     {
         "code": "shoggoths",
-        "name": "쇼고스"
+        "name": "Shoggoths"
     },
     {
         "code": "silence_and_mystery",
-        "name": "고요함과 불가사의"
+        "name": "Silence and Mystery"
     },
     {
         "code": "silver_twilight_lodge",
@@ -785,7 +785,7 @@
     },
     {
         "code": "stirring_in_the_deep",
-        "name": "깊은 곳에 도사린 것"
+        "name": "Stirring in the Deep"
     },
     {
         "code": "stranger",
@@ -805,7 +805,7 @@
     },
     {
         "code": "tekelili",
-        "name": "테켈리 리"
+        "name": "Tekeli-Li"
     },
     {
         "code": "temporal_hunters",
@@ -833,7 +833,7 @@
     },
     {
         "code": "the_crash",
-        "name": "추락"
+        "name": "The Crash"
     },
     {
         "code": "the_depths_of_yoth",
@@ -849,11 +849,11 @@
     },
     {
         "code": "the_great_seal",
-        "name": "대봉인"
+        "name": "The Great Seal"
     },
     {
         "code": "the_heart_of_madness",
-        "name": "광기의 심장부"
+        "name": "The Heart of Madness"
     },
     {
         "code": "the_house_always_wins",
@@ -921,7 +921,7 @@
     },
     {
         "code": "to_the_forbidden_peaks",
-        "name": "금단의 봉우리를 향해"
+        "name": "To the Forbidden Peaks"
     },
     {
         "code": "torch",

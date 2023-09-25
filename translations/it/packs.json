@@ -84,10 +84,6 @@
         "name": "Per il Bene Superiore"
     },
     {
-        "code": "fof",
-        "name": "Fortune and Folly"
-    },
-    {
         "code": "guardians",
         "name": "I Guardiani dell'Abisso"
     },
@@ -148,10 +144,6 @@
         "name": "I Labirinti della Follia"
     },
     {
-        "code": "mtt",
-        "name": "Machinations Through Time"
-    },
-    {
         "code": "nat",
         "name": "Nathaniel Cho"
     },
@@ -168,10 +160,6 @@
         "name": "La Strada per Carcosa"
     },
     {
-        "code": "rcore",
-        "name": "Scatola Base (Nuovo Formato)"
-    },
-    {
         "code": "rod",
         "name": "Read or Die"
     },
@@ -186,10 +174,6 @@
     {
         "code": "rtptc",
         "name": "Ritorno a... La Strada per Carcosa"
-    },
-    {
-        "code": "rtr",
-        "name": "Red Tide Rising"
     },
     {
         "code": "rttcu",
@@ -270,14 +254,6 @@
     {
         "code": "tsh",
         "name": "Le Mille Forme dell’Orrore"
-    },
-    {
-        "code": "tskc",
-        "name": "Le Chiavi Scarlatte, Espansione Campagna"
-    },
-    {
-        "code": "tskp",
-        "name": "Le Chiavi Scarlatte, Espansione Investigatori"
     },
     {
         "code": "tsn",
