@@ -176,7 +176,7 @@
         "deck_limit": 2,
         "faction_code": "seeker",
         "illustrator": "Chris Miscik",
-        "is_unique": false,
+        "is_unique": true,
         "name": "Forbidden Tome",
         "pack_code": "har",
         "position": 10,
