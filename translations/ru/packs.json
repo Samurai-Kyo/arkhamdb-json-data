@@ -1,7 +1,7 @@
 [
     {
         "code": "aon",
-        "name": "All or Nothing"
+        "name": "Всё или ничего"
     },
     {
         "code": "apot",
@@ -9,7 +9,7 @@
     },
     {
         "code": "bad",
-        "name": "Bad Blood"
+        "name": "Кровная вражда"
     },
     {
         "code": "bbt",
@@ -17,7 +17,7 @@
     },
     {
         "code": "blob",
-        "name": "The Blob That Ate Everything"
+        "name": "Капля, поглотившая всё"
     },
     {
         "code": "bob",
@@ -33,7 +33,7 @@
     },
     {
         "code": "btb",
-        "name": "By the Book"
+        "name": "По букве закона"
     },
     {
         "code": "coh",
@@ -173,7 +173,7 @@
     },
     {
         "code": "rtdwl",
-        "name": "Return to the Dunwich Legacy"
+        "name": "Наследие Данвича. Возвращение"
     },
     {
         "code": "rtnotz",
@@ -181,7 +181,7 @@
     },
     {
         "code": "rtptc",
-        "name": "Return to the Path to Carcosa"
+        "name": "Путь в Каркозу. Возвращение"
     },
     {
         "code": "rtr",
