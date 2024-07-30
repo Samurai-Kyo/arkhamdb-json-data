@@ -145,7 +145,11 @@
     },
     {
         "code": "mtt",
-        "name": "Machinations Through Time"
+        "name": "Махинации сквозь время"
+    },
+    {
+        "code": "fof",
+        "name": "Фортуна и безрассудство"
     },
     {
         "code": "nat",
@@ -189,7 +193,7 @@
     },
     {
         "code": "rttcu",
-        "name": "Return to the Circle Undone"
+        "name": "Нарушенный круг. Возвращение"
     },
     {
         "code": "rttfa",
@@ -221,7 +225,7 @@
     },
     {
         "code": "tde",
-        "name": "The Dream-Eaters"
+        "name": "Пожиратели снов"
     },
     {
         "code": "tdg",
@@ -314,5 +318,13 @@
     {
         "code": "wos",
         "name": "Расплата за грехи"
+    },
+    {
+        "code": "fhvp",
+        "name": "Пир в Хемлок-Вейл. Сыщики"
+    },
+    {
+        "code": "fhvc",
+        "name": "Пир в Хемлок-Вейл. Кампания"
     }
 ]
