@@ -88,14 +88,6 @@
         "name": "대의를 위하여"
     },
     {
-        "code": "fhvc",
-        "name": "The Feast of Hemlock Vale Campaign Expansion"
-    },
-    {
-        "code": "fhvp",
-        "name": "The Feast of Hemlock Vale Investigator Expansion"
-    },
-    {
         "code": "fof",
         "name": "한탕과 허탕"
     },
@@ -106,10 +98,6 @@
     {
         "code": "har",
         "name": "하비 월터스"
-    },
-    {
-        "code": "hfa",
-        "name": "해답을 찾아서"
     },
     {
         "code": "hhg",
@@ -164,10 +152,6 @@
         "name": "광기의 미궁"
     },
     {
-        "code": "ltr",
-        "name": "영면"
-    },
-    {
         "code": "mtt",
         "name": "Machinations Through Time"
     },
@@ -192,20 +176,12 @@
         "name": "카르코사로 가는 길"
     },
     {
-        "code": "ptr",
-        "name": "정의의 길"
-    },
-    {
         "code": "rcore",
         "name": "개정 기본판"
     },
     {
         "code": "rod",
         "name": "책이 아니면 죽음을"
-    },
-    {
-        "code": "rop",
-        "name": "과거의 유물"
     },
     {
         "code": "rtdwl",
