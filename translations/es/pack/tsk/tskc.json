@@ -801,7 +801,7 @@
   {
     "code": "09596",
     "name": "Identidades falsas (v. I)",
-    "text": "[reaction] Cuando un investigador fuera a resolver la palabra clave Encubierto X de un Enemigo, los investigadores, como grupo, gastan X pistas: En vez de eso, haz que aparezca enfrentado a ese investigador.\n[action]: <b>Desistir.</b> Abandonas a su suerte a Desi y sus hombres.\n<b>Objetivo</b> - Si no hay Enemigos en las sombras, los investigadores pueden gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
+    "text": "[reaction] Cuando un investigador fuera a resolver la palabra clave Encubierto X de un Enemigo, los investigadores, como grupo, gastan X pistas: En vez de Eso, haz que aparezca enfrentado a ese investigador.\n[action]: <b>Desistir.</b> Abandonas a su suerte a Desi y sus hombres.\n<b>Objetivo</b> - Si no hay Enemigos en las sombras, los investigadores pueden gastar la cantidad necesaria de pistas para hacer avanzar el acto.",
     "flavor": "Un momento… ¿Qué demonios acaba de pasar? Esa entidad tocó a Desi y adoptó su forma. ¿Es eso lo que les ha estado ocurriendo a los hombres de Desi? ¡Debes encontrarlo antes de que acabe su trabajo!",
     "back_name": "Verdades no pronunciadas",
     "back_text": "Prepara el Enemigo Desiderio Delgado Álvarez, retira todas las fichas que tenga y descarta todas las cartas vinculadas que tenga. Busca el Apoyo de historia Desiderio Delgado Álvarez que pusiste aparte, dale la vuelta para mostrar su lado Enemigo y haz que aparezca en el mismo Lugar que el que está en juego, mezclándolos para que no sepas cuál es cuál.",
@@ -1627,7 +1627,6 @@
     "back_flavor": "En el oscuro y palpitante corazón de la ciudad de restos hay una estructura desordenada hecha de negro ónice y un retorcido vidrio serrado. Por todo el horrendo cubil hay una maraña de cadenas, alambre de espino y cables alienígenas. Una de las entidades flota en el centro de la cámara: es una bola de espacio retorcido y distorsionado con dos apéndices de resplandeciente luz plásmica. Los apéndices bajan hasta una figura humanoide vestida con raídas prendas y tocan su mente inconsciente para extraer algo de ella. Te acercas y te das cuenta con horror que reconoces a la persona que hay sobre el altar, o al menos reconoces sus llamativos guantes rojos."
   },
   {
-    "code": "09686",
     "name": "Ruina roja",
     "text": "El hombre de los guantes rojos no puede ser descartado ni robado.\n[action] Si la Némesis mimética está en tu Lugar, gasta 1 pista: Inflígele 2 puntos de daño. Esta acción no provoca ataques de oportunidad de la Némesis mimética.\n<b>Objetivo</b> - Cuando El hombre de los guantes rojos entre en juego, haz avanzar el acto.",
     "flavor": "Desconoces realmente lo que está pasando, pero sabes que no puede ser bueno. Tienes que detener lo que está sucediendo aquí, y sólo entonces podrás descubrir la verdad sobre el hombre de los guantes rojos.",
@@ -1773,7 +1772,7 @@
   {
     "code": "09704",
     "name": "Salas escarlata",
-    "text": "[fast] Agota un Apoyo [[Conspirador]] que controles: <b>Movimiento</b> <i>(a un Lugar conectado)</i>.",
+    "text": "[fast] Agota un Apoyo [[Conspirador]] que controles: <b>Movimiento</b> <i>(a un Lugar conectado)</i>.", 
     "flavor": "Si tuvieras un guía, es posible que estas salas laberínticas no te desconcertasen tanto.",
     "back_flavor": "Las salas del escondite secreto de la Camarilla Roja celebran su larga historia de interferencia en los asuntos de la humanidad; las paredes están adornadas con algunas reliquias de civilizaciones del pasado, tapices de color rojo escarlata y numerosos retratos de gente de aspecto importante ataviada de rojo.",
     "traits": "Santuario."
@@ -2282,7 +2281,7 @@
   {
     "code": "09767",
     "name": "Comprensión paradimensional",
-    "text": "<b>Revelación</b> - Debes (elige una opción):\n- Alterar inmediatamente una Llave [[Inestable]] que controles.\n- Dar la vuelta a cada Llave [[Estable]] que controles para mostrar su lado [[Inestable]].",
+    "text": "<b>Revelación</b> - Debes (elige una):\n- Alterar inmediatamente una Llave [[Inestable]] que controles.\n- Dar la vuelta a cada Llave [[Estable]] que controles para mostrar su lado [Inestable]].",
     "traits": "Locura. Paradoja."
   },
   {
