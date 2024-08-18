@@ -52,12 +52,16 @@
         "name": "슈브 니구라스의 권속"
     },
     {
+        "code": "agents_of_the_colour",
+        "name": "Agents of the Colour"
+    },
+    {
         "code": "agents_of_the_outside",
-        "name": "Agents of the Outside"
+        "name": "바깥세계의 권속"
     },
     {
         "code": "agents_of_the_unknown",
-        "name": "Agents of the Unknown"
+        "name": "미지의 권속"
     },
     {
         "code": "agents_of_yig",
@@ -69,7 +73,7 @@
     },
     {
         "code": "agents_of_yuggoth",
-        "name": "Agents of Yuggoth"
+        "name": "유고스의 권속"
     },
     {
         "code": "alien_interference",
@@ -121,7 +125,7 @@
     },
     {
         "code": "beyond_the_beyond",
-        "name": "Beyond the Beyond"
+        "name": "저 너머의 너머"
     },
     {
         "code": "beyond_the_gates_of_sleep",
@@ -140,12 +144,12 @@
         "name": "검은 별이 떠오르다"
     },
     {
-        "code": "blob",
-        "name": "The Blob That Ate Everything"
+        "code": "blight",
+        "name": "Blight"
     },
     {
-        "code": "blob_that_ate_everything_else",
-        "name": "(그거 빼고) 모든 것을 집어삼켜버린 멍울"
+        "code": "blob",
+        "name": "The Blob That Ate Everything"
     },
     {
         "code": "blob_epic_multiplayer",
@@ -157,7 +161,7 @@
     },
     {
         "code": "blob_that_ate_everything_else",
-        "name": "The Blob That Ate Everything Else"
+        "name": "(그거 빼고) 모든 것을 집어삼켜버린 멍울"
     },
     {
         "code": "blood_on_the_altar",
@@ -201,15 +205,15 @@
     },
     {
         "code": "city_of_the_elder_things",
-        "name": "City of the Elder Things"
+        "name": "옛것의 도시"
     },
     {
         "code": "cleanup_crew",
-        "name": "Cleanup Crew"
+        "name": "처리반"
     },
     {
         "code": "congress_of_the_keys",
-        "name": "Congress of the Keys"
+        "name": "열쇠 의회"
     },
     {
         "code": "corsairs",
@@ -217,7 +221,7 @@
     },
     {
         "code": "creatures_in_the_ice",
-        "name": "Creatures in the Ice"
+        "name": "얼음 속의 괴수"
     },
     {
         "code": "creatures_of_the_deep",
@@ -233,7 +237,7 @@
     },
     {
         "code": "crimson_conspiracy",
-        "name": "Crimson Conspiracy"
+        "name": "선홍색 음모"
     },
     {
         "code": "cult_of_pnakotus",
@@ -253,7 +257,7 @@
     },
     {
         "code": "dancing_mad",
-        "name": "Dancing Mad"
+        "name": "춤추는 광기"
     },
     {
         "code": "dark_rituals",
@@ -265,19 +269,31 @@
     },
     {
         "code": "dark_veiling",
-        "name": "Dark Veiling"
+        "name": "어두운 은폐"
+    },
+    {
+        "code": "day_of_rain",
+        "name": "Day of Rain"
+    },
+    {
+        "code": "day_of_rest",
+        "name": "Day of Rest"
+    },
+    {
+        "code": "day_of_the_feast",
+        "name": "Day of the Feast"
     },
     {
         "code": "dead_heat",
-        "name": "Dead Heat"
+        "name": "죽음과 혹서"
     },
     {
         "code": "deadly_weather",
-        "name": "Deadly Weather"
+        "name": "악천후"
     },
     {
         "code": "dealings_in_the_dark",
-        "name": "Dealings in the Dark"
+        "name": "어둠 속의 거래"
     },
     {
         "code": "death_of_stars",
@@ -317,7 +333,7 @@
     },
     {
         "code": "dogs_of_war",
-        "name": "Dogs of War"
+        "name": "전쟁의 사냥개"
     },
     {
         "code": "doomed_expedition",
@@ -341,7 +357,7 @@
     },
     {
         "code": "elder_things",
-        "name": "Elder Things"
+        "name": "옛것"
     },
     {
         "code": "epic_multiplayer",
@@ -381,7 +397,15 @@
     },
     {
         "code": "fatal_mirage",
-        "name": "Fatal Mirage"
+        "name": "치명적인 신기루"
+    },
+    {
+        "code": "fate_of_the_vale",
+        "name": "Fate of the Vale"
+    },
+    {
+        "code": "fire",
+        "name": "Fire!"
     },
     {
         "code": "flood",
@@ -405,11 +429,11 @@
     },
     {
         "code": "fortune_and_folly",
-        "name": "Fortune and Folly"
+        "name": "한탕과 허탕"
     },
     {
         "code": "fortunes_chosen",
-        "name": "Fortune's Chosen"
+        "name": "행운이 선택한 자"
     },
     {
         "code": "ghouls",
@@ -421,7 +445,7 @@
     },
     {
         "code": "globetrotting",
-        "name": "Globetrotting"
+        "name": "세계구 활동"
     },
     {
         "code": "guardians_of_time",
@@ -441,11 +465,19 @@
     },
     {
         "code": "hazards_of_antarctica",
-        "name": "Hazards of Antarctica"
+        "name": "위험천만한 남극"
     },
     {
         "code": "heart_of_the_elders",
         "name": "고대 문명의 심장부"
+    },
+    {
+        "code": "heirlooms",
+        "name": "Heirlooms"
+    },
+    {
+        "code": "hemlock_house",
+        "name": "Hemlock House"
     },
     {
         "code": "hexcraft",
@@ -460,8 +492,12 @@
         "name": "공포의 추격전"
     },
     {
+        "code": "horrors_in_the_rock",
+        "name": "Horrors in the Rock"
+    },
+    {
         "code": "ice_and_death",
-        "name": "Ice and Death"
+        "name": "얼음과 죽음"
     },
     {
         "code": "impending_evils",
@@ -496,8 +532,12 @@
         "name": "크느 얀"
     },
     {
+        "code": "laid_to_rest",
+        "name": "영면"
+    },
+    {
         "code": "left_behind",
-        "name": "Left Behind"
+        "name": "남겨진 자들"
     },
     {
         "code": "locked_doors",
@@ -505,7 +545,7 @@
     },
     {
         "code": "lost_in_the_night",
-        "name": "Lost in the Night"
+        "name": "한밤중의 실종"
     },
     {
         "code": "lost_in_time_and_space",
@@ -513,7 +553,15 @@
     },
     {
         "code": "machinations_through_time",
-        "name": "Machinations Through Time"
+        "name": "시간을 초월한 음모"
+    },
+    {
+        "code": "machinations_through_time_epic_multiplayer",
+        "name": "대규모 다인"
+    },
+    {
+        "code": "machinations_through_time_single_group",
+        "name": "단일 그룹"
     },
     {
         "code": "maddening_delusions",
@@ -525,7 +573,7 @@
     },
     {
         "code": "memorials_of_the_lost",
-        "name": "Memorials of the Lost"
+        "name": "탐사대원의 유품"
     },
     {
         "code": "merging_realities",
@@ -533,7 +581,7 @@
     },
     {
         "code": "miasma",
-        "name": "Miasma"
+        "name": "독기"
     },
     {
         "code": "migo_incursion",
@@ -552,12 +600,20 @@
         "name": "저주받은 자의 노래"
     },
     {
+        "code": "mutations",
+        "name": "Mutations"
+    },
+    {
+        "code": "myconids",
+        "name": "Myconids"
+    },
+    {
         "code": "mysteries_abound",
-        "name": "Mysteries Abound"
+        "name": "헤아릴 수 없는 불가사의"
     },
     {
         "code": "nameless_horrors",
-        "name": "Nameless Horrors"
+        "name": "형언치 못할 공포"
     },
     {
         "code": "naomis_crew",
@@ -573,15 +629,15 @@
     },
     {
         "code": "on_thin_ice",
-        "name": "On Thin Ice"
+        "name": "살얼음판"
     },
     {
         "code": "outsiders",
-        "name": "Outsiders"
+        "name": "바깥개체"
     },
     {
         "code": "penguins",
-        "name": "Penguins"
+        "name": "펭귄"
     },
     {
         "code": "pentagram",
@@ -593,7 +649,7 @@
     },
     {
         "code": "plan_in_shambles",
-        "name": "Plan in Shambles"
+        "name": "아수라장이 된 계획"
     },
     {
         "code": "pnakotic_brotherhood",
@@ -625,11 +681,23 @@
     },
     {
         "code": "red_coterie",
-        "name": "Red Coterie"
+        "name": "붉은 동지회"
     },
     {
         "code": "red_tide_rising",
         "name": "붉은 밀물 차오르니"
+    },
+    {
+        "code": "refractions",
+        "name": "Refractions"
+    },
+    {
+        "code": "relics_of_the_past",
+        "name": "과거의 유물"
+    },
+    {
+        "code": "residents",
+        "name": "Residents"
     },
     {
         "code": "resurgent_evils",
@@ -801,7 +869,7 @@
     },
     {
         "code": "riddles_and_rain",
-        "name": "Riddles and Rain"
+        "name": "비와 수수께끼"
     },
     {
         "code": "rising_tide",
@@ -821,11 +889,11 @@
     },
     {
         "code": "sanguine_shadows",
-        "name": "Sanguine Shadows"
+        "name": "핏빛 그림자"
     },
     {
         "code": "scarlet_sorcery",
-        "name": "Scarlet Sorcery"
+        "name": "진홍색 마법"
     },
     {
         "code": "secret_doors",
@@ -833,7 +901,7 @@
     },
     {
         "code": "secret_war",
-        "name": "Secret War"
+        "name": "비밀 속의 전쟁"
     },
     {
         "code": "secrets_of_the_universe",
@@ -841,7 +909,7 @@
     },
     {
         "code": "seeping_nightmares",
-        "name": "Seeping Nightmares"
+        "name": "스며 나오는 악몽"
     },
     {
         "code": "serpents",
@@ -849,11 +917,11 @@
     },
     {
         "code": "shades_of_suffering",
-        "name": "Shades of Suffering"
+        "name": "비통의 그늘"
     },
     {
         "code": "shadow_of_a_doubt",
-        "name": "Shadow of a Doubt"
+        "name": "의혹의 그림자"
     },
     {
         "code": "shattered_aeons",
@@ -865,11 +933,11 @@
     },
     {
         "code": "shoggoths",
-        "name": "Shoggoths"
+        "name": "쇼고스"
     },
     {
         "code": "silence_and_mystery",
-        "name": "Silence and Mystery"
+        "name": "고요함과 불가사의"
     },
     {
         "code": "silver_twilight_lodge",
@@ -889,7 +957,7 @@
     },
     {
         "code": "spatial_anomaly",
-        "name": "Spatial Anomaly"
+        "name": "공간적 기현상"
     },
     {
         "code": "spectral_predators",
@@ -901,15 +969,15 @@
     },
     {
         "code": "spreading_corruption",
-        "name": "Spreading Corruption"
+        "name": "퍼져가는 타락"
     },
     {
         "code": "stirring_in_the_deep",
-        "name": "Stirring in the Deep"
+        "name": "깊은 곳에 도사린 것"
     },
     {
         "code": "strange_happenings",
-        "name": "Strange Happenings"
+        "name": "괴이한 현상"
     },
     {
         "code": "stranger",
@@ -929,7 +997,7 @@
     },
     {
         "code": "tekelili",
-        "name": "Tekeli-Li"
+        "name": "테켈리 리"
     },
     {
         "code": "temporal_hunters",
@@ -957,7 +1025,7 @@
     },
     {
         "code": "the_crash",
-        "name": "The Crash"
+        "name": "추락"
     },
     {
         "code": "the_depths_of_yoth",
@@ -972,12 +1040,24 @@
         "name": "영원한 잠"
     },
     {
+        "code": "the_final_day",
+        "name": "The Final Day"
+    },
+    {
+        "code": "the_first_day",
+        "name": "The First Day"
+    },
+    {
+        "code": "the_forest",
+        "name": "The Forest"
+    },
+    {
         "code": "the_great_seal",
-        "name": "The Great Seal"
+        "name": "대봉인"
     },
     {
         "code": "the_heart_of_madness",
-        "name": "The Heart of Madness"
+        "name": "광기의 심장부"
     },
     {
         "code": "the_house_always_wins",
@@ -994,6 +1074,14 @@
     {
         "code": "the_locals",
         "name": "인스머스 토박이"
+    },
+    {
+        "code": "the_longest_night",
+        "name": "The Longest Night"
+    },
+    {
+        "code": "the_lost_sister",
+        "name": "The Lost Sister"
     },
     {
         "code": "the_miskatonic_museum",
@@ -1016,12 +1104,32 @@
         "name": "카다스를 찾아서"
     },
     {
+        "code": "the_second_day",
+        "name": "The Second Day"
+    },
+    {
         "code": "the_secret_name",
         "name": "비밀 이름"
     },
     {
+        "code": "the_silent_heath",
+        "name": "The Silent Heath"
+    },
+    {
+        "code": "the_thing_in_the_depths",
+        "name": "The Thing in the Depths"
+    },
+    {
+        "code": "the_twisted_hollow",
+        "name": "The Twisted Hollow"
+    },
+    {
         "code": "the_unspeakable_oath",
         "name": "입에 담아선 안 될 맹세"
+    },
+    {
+        "code": "the_vale",
+        "name": "The Vale"
     },
     {
         "code": "the_vanishing_of_elina_harper",
@@ -1045,11 +1153,15 @@
     },
     {
         "code": "to_the_forbidden_peaks",
-        "name": "To the Forbidden Peaks"
+        "name": "금단의 봉우리를 향해"
     },
     {
         "code": "torch",
         "name": "회합"
+    },
+    {
+        "code": "transfiguration",
+        "name": "Transfiguration"
     },
     {
         "code": "trapped_spirits",
@@ -1141,7 +1253,11 @@
     },
     {
         "code": "without_a_trace",
-        "name": "Without a Trace"
+        "name": "흔적도 없이"
+    },
+    {
+        "code": "written_in_rock",
+        "name": "Written in Rock"
     },
     {
         "code": "yog_sothoths_emissaries",
